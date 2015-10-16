@@ -1,0 +1,2 @@
+# Application builder RAD tools for Android and iOS
+The presentation is a comparison of tools for Rapid Application Development (RAD) e.g. MobiForms 5.0, FormEntry, RADDroid and so on. These tools generate skeleton code that allow the development of mobile applications without the user of a traditional programming language i.e. Objective C, Java. The results of comparing the performance of these various tools for the two major platforms – iOS and Android are presented.
